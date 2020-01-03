@@ -16,6 +16,7 @@ env:
   - SUBPROJECT=HIRS_AttestationCA
   - SUBPROJECT=HIRS_AttestationCAPortal
   - SUBPROJECT=TPM_Utils
+  - SUBPROJECT=ACA_SwidTag
   - SUBPROJECT=tpm_module
 
 services:
